@@ -1,0 +1,214 @@
+*{
+    box-sizing: border-box;
+}
+.large{
+    display: flex; 
+    /* border: 5px solid red; */
+    width:  1300px;
+    /* height: 719px; */
+    margin: 100px 107px 111px 6px;
+}
+.small{
+    margin-left: 50px;
+    width: 40%;
+}
+.head{
+    margin-top: 150px;
+}
+.nav{
+    width: 50%;
+    margin-left: 400px;
+    height: 400px;
+}
+.link{
+    margin: 15px;
+    text-decoration: none;
+    opacity: 0.5;
+}
+.hello{
+    margin: 15px;
+    text-decoration: none;
+    color: black;
+}
+    .for_link{
+        width: 200px;
+        height: 57px;
+        border-radius: 55px;
+        background: #458FF6;
+        padding: 18px;
+    }
+    .aa{
+        text-align: center;
+        margin: 100px 10px;
+        color: white;
+        text-decoration: none;
+        font-size: 20px;
+    }
+    .rasmm{
+width: 600px;
+height: 500px;
+margin-top: 40px;
+    }
+    .center{
+        text-align: center;
+    }
+    .line{
+        width: 56px;
+        height: 2px;
+        background-color: black;
+            }
+   .second{
+width: 1120px;
+margin:0 auto;
+   }
+   .thrid{
+      margin-top:-100px; 
+   }
+   .list{
+       display: flex;
+   }
+   .item{
+       margin: 60px;
+       list-style: none;
+   }
+   .links{
+   width: 200px;
+   height: 57px;
+   border: 2px solid #458FF6;
+   border-radius: 55px;
+   background:transparent;
+   padding: 18px;
+   margin-left: 43%;
+   }
+   .bb{
+    text-align: center;
+    margin: 30px 30px;
+    color:#458FF6;
+    text-decoration: none;
+    font-size: 20px;
+}
+.svg{
+    width: 650px;
+    height: 427px;
+    margin-left: 100px;
+    margin-top: 120px;
+}
+.leading{
+    margin-top: 120px;
+    margin-left: 100px; 
+}
+.night{
+    display: flex;
+    width: 1270px;
+    height: 470px;
+}
+    .fon{
+        width: 56px;
+      height: 2px;
+      background-color: black;
+    }
+    .linklar{
+        width: 200px;
+        height: 57px;
+        border: 2px solid #458FF6;
+        border-radius: 55px;
+        background:transparent;
+        padding: 18px;
+        }
+        .cc{
+            text-align: center;
+            margin: 30px 30px;
+            color:#458FF6;
+            text-decoration: none;
+            font-size: 20px;
+            font-size: 15px;
+        }
+.end{
+    width: 1320px;
+    height: 675px;
+    display: flex;
+}
+.more{
+margin-top: 300px;
+margin-left: 70px;
+}
+.picture{
+    width: 665px;
+    height: 434px;
+    margin-left: 400px;
+    margin-top: -350px;
+}
+.edward{
+    width: 1219px;
+    height: 502px;
+    margin: 0 auto;
+}
+.blue{
+    margin: 15px 20px 42px;
+    width: 1180px;
+    height: 440px;
+    border-radius: 20px;
+    background: linear-gradient(208.18deg, #67C3F3 9.05%, #5A98F2 76.74%);
+}
+.sarlavha{
+    text-align: center;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.mask{
+    margin-left: 55px;
+    margin-top: 150px;
+    display: flex;
+}
+.blockquote{
+margin-left: 600px;
+margin-top: -130px;
+}
+.spaa{
+    color: white;
+}
+.doctor{
+    display: flex;
+}
+.oz-qoldi{
+    margin-left: 25px;
+}
+ul{
+    display: flex;
+    margin: 0 auto;
+}
+.itemmm{
+    margin: 40px;
+    list-style: none;
+}
+.oxirgi-link{
+    text-decoration: none;
+    color: #4089ED;
+}
+.va-nixoyat{
+    width: 100%;
+    height: 432px;
+    background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+    margin-top: 50px;
+}
+.trafalgar{
+margin-left: 45px;
+padding: 120px;
+}
+.qator{
+    display:flex  ;
+    margin-left: 600px;
+}
+.end-project{
+    display: flex;
+}
+.good{
+    list-style: none;
+    margin-top: -270px;
+    width: 200px;
+}
+.for-a{
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+}
